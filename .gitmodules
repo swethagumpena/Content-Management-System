@@ -1,3 +1,9 @@
 [submodule "frontend-service"]
 	path = frontend-service
 	url = https://github.com/swethagumpena/frontend-service
+[submodule "backend-service"]
+	path = backend-service
+	url = https://github.com/swethagumpena/backend-service
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/swethagumpena/auth-service

@@ -2,8 +2,6 @@
 
 As part of McK internship final assessment (2021)
 
----
-
 ### Problem statement:
 
 A Content Management System(CMS) is an application used to manage different types of web content allowing multiple contributors to create, edit and publish. Content in a CMS is typically stored in a database and displayed in a presentation layer based on a set of templates.

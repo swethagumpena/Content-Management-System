@@ -17,9 +17,7 @@ The following are the basic features of a CMS:
 
 ---
 
-### Barebones version of a CMS
-
-Features:
+### Features:
 
 - Register and login for user (using auth-service)
 - All subsequent API calls from the front-end are authenticated (using auth-service)

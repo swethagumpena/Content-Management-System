@@ -7,3 +7,6 @@
 [submodule "auth-service"]
 	path = auth-service
 	url = https://github.com/swethagumpena/auth-service
+[submodule "docker-yaml"]
+	path = docker-yaml
+	url = https://github.com/swethagumpena/docker-yaml
